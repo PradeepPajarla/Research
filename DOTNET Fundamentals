@@ -1,0 +1,206 @@
+
+
+What is IL code, CLR, CLS & JIT?
+- Part1What is IL code, CLR, CLS & JIT?
+- Part2What are 3 kind's of JIT & What
+is NGEN.exe?What is CAS, evidence, permission
+set & code groups?What are the changes in .NET 4.0
+security model & What is sandboxing?What is the difference between
+managed & unmanaged code?What is Garbage Collector Gen 0, 1
+& 2?What is IDisposable interface &
+finalize dispose pattern in GC?What is the difference between
+strong and weak references?What is delay signing?Can we see simple example of GAC
+& How to handle multiple versions in GAC?What are different .NET datatypes
+and its uses according to scenarios?What is difference between String
+and string?What is the difference between
+String and String Builder?What problem does Delegate Solve? -
+Part1What is a Multicast delegate? -
+Part2What are events & what's the
+difference between delegates & events? - Part3How can we make Asynchronous method
+calls using delegates?What are anonymous methods in C#?Why anonymous types are preferred
+over Tuples?What is the use of Lambda Expression
+Action<>, Predicate<> & Func<>?What do you mean by Covariance &
+Contravariance in .NET 4.0?What is the use of checked and unchecked
+keyword?What is a stack, Heap, Value types
+and Reference types?What is boxing and unboxing?What is the use of Session and
+Viewstate in ASP.NET?Can you explain ASP.NET application
+and Page life cycle - (Part 1)?Can you explain ASP.NET application
+and Page life cycle - (Part 2)?Can you explain ASP.NET application
+and Page life cycle - (Part-3)?What is Authentication,
+Authorization, Principal & Identity objects? Part-1ASP.NET Authentiication and
+Authorization Video series Part-2ASP.NET Authentiication and
+Authorization Video series Part-3ASP.NET Authentiication and
+Authorization Video series Part-4ASP.NET Authentiication and
+Authorization Video series Part-5ASP.NET Authentiication and
+Authorization Video series Part-6What is optimistic and pessimistic
+locking? - Part1Can you explain optimistic locking?
+- Part2Can you explain pessimistic locking?
+- Part3What is Instrumentation, Debugging
+& Tracing? Part-1What is Instrumentation, Debugging
+& Tracing? Part-2What is Instrumentation, Debugging
+& Tracing?Part-3What are regular expressions &
+can we see some practical demonstrations?What are the different types of
+collections in .NET?- Part 1What is the difference between Array
+& ArrayList?- Part 2Can you prove why arrays are faster
+than arraylist?- Part 3What are the problems with arraylist
+& how can we solve the same by Hashtables?- Part 4What are stacks & queues?- Part
+5What are special collections?- Part
+6What are Generics & What are
+generics collections?- Part 7What are generics collections?- Part
+8What is the use of IEnumerator,
+ICollection, IDictionary & IList?- Part 9What is the difference between
+IEnumerable and IEnumerator?What is the use of VAR keyword in
+C#?5 tips to improve your C# debugging.Can you explain Named Parameters,
+Ref, Out, Volatile & Parsetry?Can you explain First, Second &
+Third Normal forms in database?State 4 different types of SQL join?What are wild card operators?Explain Union & Union All?What is aggregate functions, group
+by clause, having keyword?What is the difference between Const
+& ReadOnly?What is the difference between Debug
+and Release?What is #Debug directive?C# Out Vs RefWhat is Automapper?What are DataAnnotations?C# Threading Q & A videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Threading in C#.NET?How can we make a object thread safe
+using LOCK in multithreading?What is Mutex, Seamaphore &
+SemaphoreSlim?What is AutoResetEvent and
+ManualResetEvent?What is Thread Pooling?How to debug Threads? 
+
+
+
+
+
+
+
+
+
+
+
+Visual Studio Tips & Tricks No. –  1 to
+18
